@@ -1,0 +1,48 @@
+body {
+	background-image: url("../img/fondo.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+}
+
+h3{
+	color: #40E0D0
+}
+
+/*-------------FIN INDEX--------------------*/
+    
+      .td{
+        padding: 10px;
+          margin: 10px;
+          
+      }
+
+      .rd_t_i {
+        border-bottom: 1px solid black;
+          border-right: 1px solid black;
+      }
+      .rd_t_d{
+        border-bottom: 1px solid black;
+          border-left: 1px solid black;
+      }
+      .rd_b_i{
+        border-top: 1px solid black;
+          border-right: 1px solid black;
+      }
+      .rd_b_d{
+        border-top: 1px solid black;
+          border-left: 1px solid black;
+      }
+      .rd_c{
+        border: 1px solid black;
+      }
+      .tittle{
+        text-align: center;
+        padding-top: 70px;
+        /*padding: 100px;*/
+      }
+      .hiden{
+        display: none;
+      }
+
